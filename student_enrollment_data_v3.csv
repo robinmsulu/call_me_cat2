@@ -1,0 +1,201 @@
+student_id,age,gender,gpa,previous_enrollment,hours_studied,parent_education_level,participated_in_extracurriculars,attendance_rate,socioeconomic_status,enrollment_status
+ST3000,23,Male,3.28,Yes,21,Master's,No,71,Low,No
+ST3001,20,Female,2.17,No,13,Bachelor's,No,79,Low,Yes
+ST3002,21,Male,2.32,Yes,37,Bachelor's,No,64,Low,Yes
+ST3003,23,Male,3.8,Yes,24,High School,No,96,Medium,No
+ST3004,19,Female,3.21,No,17,Bachelor's,Yes,97,High,Yes
+ST3005,24,Male,2.02,No,32,Bachelor's,Yes,89,Low,No
+ST3006,21,Female,2.2,No,33,Master's,Yes,68,High,No
+ST3007,21,Female,3.33,Yes,17,Bachelor's,Yes,93,Low,No
+ST3008,23,Female,2.01,No,39,High School,No,94,Low,No
+ST3009,18,Male,2.32,Yes,10,Bachelor's,Yes,81,High,Yes
+ST3010,19,Male,3.1,Yes,22,Master's,Yes,83,Medium,No
+ST3011,23,Male,3.38,Yes,9,Master's,No,76,Low,Yes
+ST3012,19,Male,3.3,Yes,29,Bachelor's,Yes,69,Low,Yes
+ST3013,19,Male,2.45,No,6,Master's,Yes,89,Low,Yes
+ST3014,24,Male,3.42,No,14,High School,Yes,82,High,Yes
+ST3015,21,Male,2.47,Yes,34,High School,Yes,91,Medium,Yes
+ST3016,20,Female,2.65,Yes,9,Bachelor's,Yes,76,High,Yes
+ST3017,24,Male,3.49,Yes,37,Bachelor's,Yes,76,High,Yes
+ST3018,24,Female,3.3,No,5,Bachelor's,No,73,Medium,Yes
+ST3019,19,Male,3.7,Yes,22,Master's,No,68,High,Yes
+ST3020,22,Male,3.32,Yes,36,High School,Yes,99,Medium,Yes
+ST3021,21,Male,3.14,No,15,High School,Yes,61,Low,No
+ST3022,18,Female,2.19,No,25,Master's,No,84,Medium,No
+ST3023,24,Female,2.74,Yes,30,High School,Yes,98,Low,No
+ST3024,20,Female,2.53,No,29,Bachelor's,Yes,68,High,Yes
+ST3025,22,Female,2.49,No,26,Bachelor's,Yes,81,High,No
+ST3026,22,Male,3.95,Yes,31,Bachelor's,No,63,Low,No
+ST3027,18,Female,2.79,No,17,High School,Yes,85,High,No
+ST3028,24,Male,3.78,Yes,37,Bachelor's,No,88,Medium,Yes
+ST3029,20,Male,3.26,No,38,Master's,Yes,93,Low,Yes
+ST3030,21,Female,3.59,Yes,39,Master's,No,82,High,Yes
+ST3031,17,Female,3.01,Yes,5,High School,No,96,Low,Yes
+ST3032,20,Female,3.15,Yes,25,Master's,Yes,70,Medium,No
+ST3033,18,Female,2.99,No,10,Master's,No,65,Medium,No
+ST3034,22,Female,2.39,Yes,32,High School,Yes,77,High,No
+ST3035,21,Female,3.44,No,21,Bachelor's,No,80,Medium,No
+ST3036,20,Female,2.56,Yes,9,Bachelor's,Yes,95,Low,Yes
+ST3037,17,Female,2.05,Yes,35,Bachelor's,Yes,97,Medium,Yes
+ST3038,17,Male,3.29,No,9,High School,No,93,Low,Yes
+ST3039,19,Female,2.35,Yes,7,Master's,Yes,76,Low,No
+ST3040,19,Female,3.88,Yes,27,Bachelor's,Yes,96,Medium,Yes
+ST3041,23,Male,3.91,No,14,Bachelor's,No,84,High,Yes
+ST3042,18,Female,3.83,Yes,14,High School,Yes,97,Medium,No
+ST3043,24,Male,2.74,Yes,23,Bachelor's,Yes,71,Low,No
+ST3044,20,Male,2.03,Yes,21,High School,No,82,Low,Yes
+ST3045,20,Female,3.86,Yes,25,Master's,No,81,Medium,Yes
+ST3046,24,Male,2.86,No,18,High School,Yes,80,High,Yes
+ST3047,23,Male,3.93,No,13,High School,Yes,86,High,Yes
+ST3048,22,Male,3.93,Yes,5,High School,No,90,Low,Yes
+ST3049,22,Male,3.71,No,17,High School,No,65,Low,Yes
+ST3050,23,Female,2.59,Yes,8,Master's,Yes,86,High,No
+ST3051,22,Male,2.77,No,5,Master's,No,99,Medium,No
+ST3052,19,Female,3.7,Yes,36,Bachelor's,Yes,93,Low,No
+ST3053,20,Male,2.63,Yes,38,Master's,Yes,71,Low,Yes
+ST3054,23,Male,2.34,Yes,32,Master's,Yes,66,High,No
+ST3055,20,Male,3.11,Yes,35,Bachelor's,Yes,69,Medium,Yes
+ST3056,24,Male,3.87,Yes,12,Master's,Yes,76,High,Yes
+ST3057,17,Female,3.39,Yes,30,High School,No,85,Medium,No
+ST3058,19,Female,3.14,No,38,High School,No,80,Medium,Yes
+ST3059,21,Male,2.19,Yes,7,Bachelor's,No,87,Medium,Yes
+ST3060,19,Male,3.23,No,16,Bachelor's,No,61,Low,No
+ST3061,23,Female,3.98,Yes,5,Bachelor's,Yes,60,High,No
+ST3062,21,Male,2.28,No,9,High School,Yes,95,High,No
+ST3063,17,Male,3.04,No,34,Master's,Yes,85,Medium,Yes
+ST3064,23,Male,3.75,No,34,High School,Yes,88,Low,No
+ST3065,18,Female,3.48,Yes,21,Bachelor's,No,80,Low,No
+ST3066,20,Female,3.39,Yes,27,Master's,Yes,70,High,Yes
+ST3067,17,Female,3.4,No,19,Master's,Yes,99,Low,No
+ST3068,20,Male,2.72,Yes,25,High School,No,70,Low,No
+ST3069,22,Male,2.59,No,18,Bachelor's,No,95,Medium,No
+ST3070,18,Female,3.62,Yes,6,High School,No,98,Low,Yes
+ST3071,18,Female,3.62,No,15,Master's,No,99,Medium,Yes
+ST3072,17,Female,3.73,No,38,High School,Yes,94,High,Yes
+ST3073,18,Female,3.83,Yes,38,High School,Yes,93,Low,Yes
+ST3074,21,Male,3.02,No,22,Bachelor's,No,83,High,No
+ST3075,18,Female,3.0,Yes,34,Bachelor's,Yes,81,High,Yes
+ST3076,20,Male,3.6,No,19,Master's,Yes,64,Low,Yes
+ST3077,20,Female,3.3,No,31,High School,Yes,92,Low,No
+ST3078,23,Male,3.4,Yes,38,High School,No,95,High,No
+ST3079,20,Female,3.59,Yes,37,High School,Yes,79,Low,No
+ST3080,23,Female,3.78,Yes,28,Master's,No,78,Medium,Yes
+ST3081,20,Female,2.68,No,19,Master's,Yes,94,Medium,Yes
+ST3082,21,Female,2.75,Yes,34,Bachelor's,Yes,76,Low,Yes
+ST3083,24,Male,2.19,No,21,Bachelor's,Yes,93,High,No
+ST3084,23,Female,3.16,No,9,Bachelor's,No,68,Low,No
+ST3085,19,Male,2.07,Yes,33,High School,Yes,85,Low,Yes
+ST3086,22,Male,2.93,Yes,8,High School,No,61,High,No
+ST3087,17,Male,3.09,No,14,Bachelor's,No,68,High,No
+ST3088,20,Male,2.57,No,21,High School,No,68,Medium,No
+ST3089,18,Female,3.18,Yes,14,Bachelor's,Yes,99,High,Yes
+ST3090,24,Male,2.06,Yes,21,Master's,Yes,76,Medium,No
+ST3091,20,Male,2.07,Yes,24,Bachelor's,Yes,60,High,No
+ST3092,18,Male,3.65,Yes,28,Master's,Yes,84,Low,Yes
+ST3093,22,Female,2.72,Yes,9,High School,No,99,Medium,Yes
+ST3094,22,Female,2.25,No,38,Bachelor's,No,84,Medium,No
+ST3095,22,Female,3.04,No,10,High School,No,98,Medium,No
+ST3096,18,Female,3.54,No,6,Master's,Yes,94,Low,Yes
+ST3097,20,Male,2.43,No,17,Master's,No,62,Low,Yes
+ST3098,22,Male,3.25,Yes,15,Master's,Yes,96,Low,No
+ST3099,21,Female,2.17,Yes,27,High School,No,89,Low,No
+ST3100,23,Male,2.1,Yes,20,High School,Yes,97,Low,No
+ST3101,18,Male,3.06,No,35,High School,Yes,93,Medium,No
+ST3102,18,Male,3.08,No,15,High School,No,71,Low,Yes
+ST3103,20,Female,3.27,Yes,20,Master's,No,78,Medium,No
+ST3104,18,Female,3.45,Yes,12,Master's,No,96,Low,No
+ST3105,18,Male,3.95,No,8,Bachelor's,No,76,High,Yes
+ST3106,22,Female,3.03,No,8,Bachelor's,Yes,69,Medium,No
+ST3107,20,Female,2.65,Yes,29,High School,No,71,High,Yes
+ST3108,22,Female,3.59,Yes,7,Master's,No,75,Medium,No
+ST3109,23,Female,2.54,No,36,Master's,No,83,High,No
+ST3110,24,Female,2.88,Yes,7,Master's,Yes,78,Low,Yes
+ST3111,23,Male,2.16,Yes,31,Bachelor's,Yes,67,Low,Yes
+ST3112,24,Female,2.05,Yes,33,Bachelor's,No,90,Low,No
+ST3113,22,Male,3.93,No,36,Master's,Yes,80,Medium,No
+ST3114,23,Male,3.67,No,23,Master's,No,76,High,No
+ST3115,20,Female,3.39,No,25,Master's,Yes,82,Low,Yes
+ST3116,17,Male,2.82,No,9,Bachelor's,Yes,96,High,No
+ST3117,22,Male,2.35,No,22,Master's,Yes,75,High,Yes
+ST3118,24,Male,2.31,No,32,Master's,Yes,65,Low,Yes
+ST3119,21,Female,2.5,No,26,High School,No,67,Low,No
+ST3120,24,Female,3.1,Yes,25,High School,No,84,High,Yes
+ST3121,21,Male,3.43,Yes,10,Bachelor's,No,77,Low,No
+ST3122,18,Female,3.32,Yes,5,Master's,Yes,84,Low,No
+ST3123,23,Female,2.56,Yes,9,Master's,No,71,Low,No
+ST3124,21,Female,3.91,Yes,16,High School,No,74,Medium,No
+ST3125,24,Female,3.48,Yes,30,Bachelor's,No,85,High,No
+ST3126,18,Male,3.11,Yes,38,High School,Yes,85,High,Yes
+ST3127,17,Male,3.22,No,18,High School,Yes,91,Medium,Yes
+ST3128,20,Female,2.84,No,30,High School,Yes,69,High,No
+ST3129,20,Female,2.5,Yes,31,High School,No,75,Low,No
+ST3130,20,Male,2.71,Yes,13,Master's,No,66,High,Yes
+ST3131,21,Male,3.52,No,30,Master's,No,76,Low,Yes
+ST3132,17,Female,2.03,Yes,26,High School,Yes,82,Medium,Yes
+ST3133,21,Male,2.23,Yes,34,Bachelor's,Yes,85,Low,Yes
+ST3134,23,Female,2.09,No,21,Bachelor's,No,80,High,No
+ST3135,21,Female,2.08,Yes,30,Bachelor's,Yes,81,High,No
+ST3136,17,Male,3.71,No,5,Bachelor's,Yes,66,High,Yes
+ST3137,17,Male,3.41,Yes,12,High School,Yes,73,Medium,No
+ST3138,23,Female,2.95,No,39,Master's,Yes,74,Medium,Yes
+ST3139,17,Female,2.2,No,19,Bachelor's,No,66,High,No
+ST3140,24,Male,2.98,No,26,High School,Yes,68,Low,Yes
+ST3141,17,Female,2.95,Yes,18,Bachelor's,Yes,67,Medium,No
+ST3142,20,Male,2.35,No,30,Bachelor's,Yes,82,High,Yes
+ST3143,24,Female,2.87,Yes,32,High School,Yes,88,High,Yes
+ST3144,24,Male,2.8,Yes,27,Master's,No,77,Medium,No
+ST3145,23,Male,3.23,Yes,18,Master's,No,90,Medium,Yes
+ST3146,19,Male,3.27,Yes,28,High School,Yes,89,Medium,No
+ST3147,19,Female,2.09,No,6,Master's,Yes,98,Low,No
+ST3148,17,Female,2.75,No,30,High School,Yes,94,Low,Yes
+ST3149,24,Male,3.25,Yes,18,High School,Yes,77,High,No
+ST3150,19,Female,3.01,Yes,11,High School,Yes,98,Medium,No
+ST3151,19,Male,3.71,No,7,Master's,Yes,76,Low,No
+ST3152,17,Male,3.32,Yes,27,High School,No,73,Medium,No
+ST3153,19,Female,2.33,No,22,Bachelor's,Yes,90,High,No
+ST3154,21,Female,2.14,Yes,39,Master's,No,83,Low,Yes
+ST3155,18,Male,3.28,Yes,19,Master's,No,94,Low,No
+ST3156,23,Female,2.05,No,29,Master's,Yes,93,Low,No
+ST3157,18,Female,3.17,Yes,32,Master's,No,62,High,No
+ST3158,17,Male,3.88,No,14,Bachelor's,No,96,Medium,No
+ST3159,20,Male,3.15,Yes,21,Master's,No,99,Low,No
+ST3160,23,Female,2.78,Yes,26,Master's,No,85,High,Yes
+ST3161,17,Male,3.29,Yes,30,High School,No,82,Medium,No
+ST3162,24,Male,2.92,No,29,Master's,No,98,High,Yes
+ST3163,20,Female,3.09,Yes,21,Bachelor's,Yes,74,Medium,Yes
+ST3164,18,Male,3.88,Yes,17,Bachelor's,No,63,High,Yes
+ST3165,17,Male,2.77,Yes,24,Bachelor's,No,88,Medium,Yes
+ST3166,24,Female,3.92,Yes,29,Bachelor's,No,81,Low,No
+ST3167,23,Female,3.81,No,8,Master's,Yes,84,Medium,Yes
+ST3168,23,Male,2.39,No,14,Master's,No,72,High,Yes
+ST3169,22,Male,2.14,Yes,7,Bachelor's,Yes,77,High,No
+ST3170,24,Female,2.2,No,22,Bachelor's,No,92,Medium,No
+ST3171,21,Female,2.04,Yes,26,Master's,Yes,75,Low,No
+ST3172,19,Female,2.19,Yes,38,Bachelor's,Yes,61,Low,Yes
+ST3173,20,Female,3.37,Yes,12,High School,No,94,Medium,No
+ST3174,24,Male,2.14,No,23,Bachelor's,No,93,Medium,No
+ST3175,22,Female,2.64,No,10,Bachelor's,Yes,89,High,Yes
+ST3176,19,Female,3.69,No,30,High School,No,72,Low,No
+ST3177,19,Male,2.05,No,38,High School,Yes,72,Medium,No
+ST3178,17,Female,3.63,No,10,Master's,Yes,77,Low,No
+ST3179,19,Male,2.56,No,37,Master's,Yes,91,Medium,No
+ST3180,21,Female,2.24,No,26,High School,Yes,91,Medium,Yes
+ST3181,23,Female,3.39,No,25,High School,Yes,94,Low,No
+ST3182,22,Female,3.26,No,10,Master's,No,98,Medium,No
+ST3183,19,Male,3.75,Yes,10,Bachelor's,Yes,88,Medium,Yes
+ST3184,17,Male,3.47,No,8,High School,Yes,88,High,No
+ST3185,21,Female,3.61,No,34,Master's,No,75,Medium,Yes
+ST3186,18,Male,2.56,No,15,Bachelor's,Yes,69,Medium,No
+ST3187,23,Male,2.35,No,34,High School,No,89,Medium,Yes
+ST3188,23,Male,3.5,No,35,Bachelor's,No,84,High,Yes
+ST3189,22,Male,3.61,No,28,Master's,No,98,Low,Yes
+ST3190,23,Male,3.98,No,13,High School,Yes,79,High,Yes
+ST3191,19,Male,2.83,No,7,Bachelor's,Yes,64,High,No
+ST3192,17,Female,2.74,No,35,High School,Yes,60,Low,Yes
+ST3193,23,Female,3.55,No,28,Bachelor's,No,89,High,No
+ST3194,23,Male,2.68,No,35,Master's,Yes,62,Low,Yes
+ST3195,18,Female,3.86,Yes,10,Master's,No,73,High,Yes
+ST3196,18,Female,3.72,Yes,6,High School,Yes,89,Low,Yes
+ST3197,20,Female,2.86,No,24,Bachelor's,No,63,Medium,No
+ST3198,21,Female,3.5,No,32,High School,Yes,77,High,Yes
+ST3199,19,Male,3.51,Yes,15,High School,Yes,96,High,No
